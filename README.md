@@ -1,5 +1,5 @@
 # Homework solutions to computer_enhance
-This repository includes my homework solutions to the computer enhance programming series (https://computerenhance.com).
+This repository includes my homework solutions (written in C) to the computer enhance programming series (https://computerenhance.com).
 
 ## Progress Tracker
 
